@@ -1,0 +1,19 @@
+description: Ultralytics best model trained on /content/datasets/Tq30VukytS/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-03-06T02:42:40.097301'
+version: 8.1.2
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: boots
+  1: earmuffs
+  2: glasses
+  3: gloves
+  4: helmet
+  5: person
+  6: vest
